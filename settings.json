@@ -1,0 +1,8 @@
+{
+    "php.executablePath": "c:/php/php.exe",
+    "php.validate.executablePath": "c:/php/php.exe",
+    "php.validate.run": "onType",
+    "emmet.includeLanguages": {"twig": "html"},
+    "html.suggest.html5": true,
+    "html.autoClosingTags": true
+}
