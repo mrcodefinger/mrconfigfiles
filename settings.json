@@ -2,7 +2,17 @@
     "php.executablePath": "c:/php/php.exe",
     "php.validate.executablePath": "c:/php/php.exe",
     "php.validate.run": "onType",
-    "emmet.includeLanguages": {"twig": "html"},
+    "emmet.includeLanguages": {
+        "html": "html",
+        "twig": "html",
+        "javascript": "javascriptreact"
+    },
     "html.suggest.html5": true,
-    "html.autoClosingTags": true
+    "html.autoClosingTags": true,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 5000,
+    "editor.wordWrap": "on",
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.minimap.enabled": false
 }
