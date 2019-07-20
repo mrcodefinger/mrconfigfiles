@@ -1,7 +1,7 @@
+// For MacOS and Linux
+// "php.validate.executablePath": "/usr/bin/php",
 {
     "php.executablePath": "c:/php/php.exe",
-    // For MacOS and Linux
-    // "php.validate.executablePath": "/usr/bin/php",
     "php.validate.executablePath": "c:/php/php.exe",
     "php.validate.run": "onType",
     "emmet.includeLanguages": {
