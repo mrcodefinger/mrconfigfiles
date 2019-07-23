@@ -17,5 +17,18 @@
     "editor.wordWrap": "on",
     "editor.formatOnSave": false,
     "editor.formatOnPaste": false,
-    "editor.minimap.enabled": false
+    "editor.minimap.enabled": false,
+    "files.eol": "\n",
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true
+      },
+      "search.exclude": {
+        "**/node_modules": true,
+        "**/bower_components": true
+      },
+      "search.followSymlinks": true,
 }
